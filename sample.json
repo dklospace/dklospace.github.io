@@ -1,0 +1,52 @@
+[
+    { "street_address": "121 Roadrunner", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/169463_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
+    },
+    { "street_address": "1 Shade Tree", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/172323_JPG/genDesktopMapHomeCardUrl/item_1.jpg"
+    },
+    { "street_address": "513 Rockefeller", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/164864_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
+    },
+    { "street_address": "52 Sorenson", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/173739_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
+    },
+    { "street_address": "176 Fieldwood", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/136658_JPG/genDesktopMapHomeCardUrl/item_3.jpg"
+    },
+    { "street_address": "209 Firefly", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/164864_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
+    },
+    { "street_address": "10 Helena", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/169463_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
+    },
+    { "street_address": "347 Tall Oak", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/172323_JPG/genDesktopMapHomeCardUrl/item_1.jpg"
+    },
+    { "street_address": "34 Stanford Ct", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/143727_JPG/genDesktopMapHomeCardUrl/item_23.jpg"
+    },
+    { "street_address": "44 Vassar Aisle", 
+      "city": "Irvine",
+      "state": "CA",
+      "url": "https://ssl.cdn-redfin.com/system_files/media/169463_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
+    }
+]
