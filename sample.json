@@ -1,6 +1,6 @@
 [
     { "street_address": "121 Roadrunner", 
-      "city": "Irvine",
+      "city": "Los Angeles",
       "state": "CA",
       "url": "https://ssl.cdn-redfin.com/system_files/media/169463_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
     },
@@ -10,8 +10,8 @@
       "url": "https://ssl.cdn-redfin.com/system_files/media/172323_JPG/genDesktopMapHomeCardUrl/item_1.jpg"
     },
     { "street_address": "513 Rockefeller", 
-      "city": "Irvine",
-      "state": "CA",
+      "city": "New York",
+      "state": "NY",
       "url": "https://ssl.cdn-redfin.com/system_files/media/164864_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
     },
     { "street_address": "52 Sorenson", 
@@ -30,8 +30,8 @@
       "url": "https://ssl.cdn-redfin.com/system_files/media/164864_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
     },
     { "street_address": "10 Helena", 
-      "city": "Irvine",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "url": "https://ssl.cdn-redfin.com/system_files/media/169463_JPG/genDesktopMapHomeCardUrl/item_4.jpg"
     },
     { "street_address": "347 Tall Oak", 
